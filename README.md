@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-NOUGHT/CROSS
+
+Block 6 - "Concurrency and asynchronous programming"			
