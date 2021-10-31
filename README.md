@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-Block 6 - "Concurrency and asynchronous programming"			
+Block 6 - "Concurrency and asynchronous programming"
 
 ![Alt text](https://github.com/noshum/HomeWorkBlockConcurrencyAsync/blob/main/TicTacToeScreen.png)
 
